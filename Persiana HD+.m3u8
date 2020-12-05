@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:IranFilmPlus.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Movie",Persiana HD+
+http://51.210.199.21/hls/stream.m3u8
