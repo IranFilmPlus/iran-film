@@ -1,4 +1,0 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="Music",Navahang TV
-http://163.172.134.85/hls/stream.m3u8?checkedby:hlscat.com
