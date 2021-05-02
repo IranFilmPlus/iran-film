@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Movie",Groovy  
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999224/300x300.png?type=smartCast_channelTile" group-title="GEM",RedBox Got Talent
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/chunklist.m3u8
 
